@@ -1,0 +1,22 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "Tiny NodeJS Static Web Server",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarthusLorin/node-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarthusLorin/node-server/issues"
+  },
+  "homepage": "https://github.com/KarthusLorin/node-server#readme",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}
