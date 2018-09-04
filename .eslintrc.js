@@ -1,5 +1,5 @@
 module.exports = {
-  "extend": ["eslint: recommended"],
+  "extends": ["eslint:recommended"],
   "rules": {
     "no-console": ["error", {
       "allow": ["warn", "error", "info"]
@@ -11,12 +11,10 @@ module.exports = {
     "sourceType": "script"
   },
   "globals": {
-    "ecmaVersion": 6,
-    "sourceType": "script"
   },
   "env": {
     "node": true,
     "es6": true,
     "mocha": true
   }
-}
+};

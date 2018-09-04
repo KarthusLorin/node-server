@@ -1,7 +1,11 @@
-# EditorConfig is awesome: https://EditorConfig.org
+# EditorConfig helps developers define and maintain consistent
+# coding styles between different editors and IDEs
+# editorconfig.org
 
-# top-most EditorConfig file
 root = true
+
+# Apply for all files
+[*]
 
 charset = utf-8
 
